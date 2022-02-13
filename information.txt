@@ -1,0 +1,27 @@
+local IP: 10.0.2.16
+User Agent: Dalvik/2.1.0 (Linux; U; Android 11; Android SDK built for x86 Build/RSR1.210210.001.A1)
+Access Point IP: 10.0.2.2
+OS Version: 5.4.61-android11-2-00094-gd61ede24cbb2-ab7064445(7193139)
+OS API Level: 30
+Device: generic_x86
+Model (and Product): Android SDK built for x86 (sdk_phone_x86)
+RELEASE: 11
+BRAND: Android
+DISPLAY: sdk_phone_x86-userdebug 11 RSR1.210210.001.A1 7193139 dev-keys
+CPU_ABI: x86
+CPU_ABI2: armeabi-v7a
+HARDWARE: ranchu
+Build ID: RSR1.210210.001.A1
+MANUFACTURER: unknown
+SERIAL: unknown
+USER: android-build
+HOST: abfarm-east4-071
+
+Contacts: 
+John K - (955) 655-2611
+July ABCD - 1 (556) 332-125
+
+Call Records: 
+number: 1556332125; name: July ABCD; duration: 6 seconds; date: 13-02-2022 21:15:53; type: OUTGOING
+number: 9556552611; name: John K; duration: 3 seconds; date: 13-02-2022 21:16:06; type: OUTGOING
+
